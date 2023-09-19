@@ -1,0 +1,19 @@
+{
+  "title": "可执行文件格式",
+  "description": "介绍常用的可执行文件格式，包括早期通用的COFF、Windows的PE、Linux系的ELF、Apple系的Mach-O。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "executable_file_format"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/executable_file_format/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/executable_file_format/pdf/executable_file_format.pdf"
+    }
+  }
+}

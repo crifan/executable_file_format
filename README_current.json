@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v0.6",
+  "lastUpdate": "20230919",
+  "gitRepoName": "executable_file_format",
+  "bookName": "可执行文件格式",
+  "bookDescription": "介绍常用的可执行文件格式，包括早期通用的COFF、Windows的PE、Linux系的ELF、Apple系的Mach-O。"
+}

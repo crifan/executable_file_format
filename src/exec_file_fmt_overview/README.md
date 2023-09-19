@@ -27,15 +27,20 @@
 ## 可执行文件格式和文件后缀
 
 * 可执行文件格式和文件后缀
+  * 可执行文件格式发展历史关系图
+    * 离线查看
+      * ![exe_file_format_history_mindmap](../assets/img/exe_file_format_history_mindmap.jpg)
+    * 在线浏览
+      * [可执行文件格式发展历史关系图| ProcessOn免费在线作图](https://www.processon.com/view/link/6509b53ff0cd331ec289d299)
   * 概述
     * 早期的：`a.out`、通用的`COFF`
     * 目前主流的：
       * `Win`：`PE`
-        * 相关文件：`.exe`可执行文件、`.dll`动态库、`.lib`静态库
+        * 相关文件：`.exe`可执行文件、`.dll`动态库
       * `Linux`和`Android`：`ELF`
-        * 相关文件：`无后缀`可执行文件、`.so`动态库、`.a`静态库、`.o`目标文件
+        * 相关文件：`无后缀`可执行文件、`.so`动态库、`.o`目标文件
       * `macOS`/`iOS`：`Mach-O`
-        * 相关文件：`无后缀`可执行文件、`.dylib`动态库、`.a`静态库
+        * 相关文件：`无后缀`可执行文件、`.dylib`动态库、`.o`目标文件
   * 详解
     * 早期的
       * Microsoft
@@ -46,7 +51,7 @@
           * `a.out`
             * =`assembler output`
         * 后来通用的
-          * `COFF`=`Common Object File Format`=`通用对象文件格式`
+          * `COFF`
     * 目前主流的
       * Microsoft系的：`PE`
         * 常见系统：`Windows`

@@ -1,11 +1,11 @@
 # 可执行文件格式
 
-* 最新版本：`v0.6`
+* 最新版本：`v0.7`
 * 更新时间：`20230919`
 
 ## 简介
 
-介绍常用的可执行文件格式，包括早期通用的COFF、Windows的PE、Linux系的ELF、Apple系的Mach-O。
+介绍常用的可执行文件格式，先是概览；然后是通用内容；接着介绍常见格式，包括早期通用的COFF、Windows的PE、Linux/Android的ELF、macOS/iOS的Mach-O，以及相关的工具，比如查看格式的file，和解析格式的LIEF。
 
 ## 源码+浏览+下载
 

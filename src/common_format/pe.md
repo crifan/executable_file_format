@@ -1,1 +1,3 @@
 # PE
+
+* `PE`=`Portable Executable`

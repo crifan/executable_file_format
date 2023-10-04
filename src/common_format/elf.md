@@ -12,3 +12,5 @@
   * ELF格式概览
     * 图
       * ![elf_obj_file_format](../assets/img/elf_obj_file_format.png)
+  * 详见子教程
+    * [可执行文件格式：ELF](https://book.crifan.org/books/exec_file_format_elf/website/)

@@ -1,5 +1,10 @@
 # 参考资料
 
+* 【已解决】给已有libtacker.so去改动信息
+* 【已解决】用LIEF去修改ELF的so中的部分信息
+* 【整理】Mach-O格式分析工具：LIEF
+* 【整理】安卓相关：OTA格式
+* 
 * [Comparison of executable file formats - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats)
 * [DOS MZ executable - Wikipedia](https://en.wikipedia.org/wiki/DOS_MZ_executable)
 * [a.out - Wikipedia](https://en.wikipedia.org/wiki/A.out)
@@ -14,4 +19,12 @@
 * [静态库的格式_there is no dynamic section in this file_广敏的博客-CSDN博客](https://blog.csdn.net/u011298001/article/details/86228437)
 * [静态库的管理与文件格式分析 - 知乎](https://zhuanlan.zhihu.com/p/24885933)
 * [静态库（.a）和共享库（.so）的文件格式差异？](https://www.qiniu.com/qfans/qnso-41879433)
+* [Welcome to LIEF’s documentation! — LIEF Documentation (lief-project.github.io)](https://lief-project.github.io/doc/latest/)
+* [Installation and Integration — LIEF Documentation (lief-project.github.io)](https://lief-project.github.io/doc/latest/installation.html)
+* [Tutorials — LIEF Documentation (lief-project.github.io)](https://lief-project.github.io/doc/latest/tutorials/index.html)
+* [03 - Play with ELF symbols — LIEF Documentation (lief-project.github.io)](https://lief-project.github.io/doc/latest/tutorials/03_elf_change_symbols.html)
+* [10 - Android formats — LIEF Documentation (archive.is)](https://archive.is/kxr87)
+* [Hiding Behind ART - Black Hat 2015](https://archive.is/o/kxr87/https://www.blackhat.com/docs/asia-15/materials/asia-15-Sabanal-Hiding-Behind-ART-wp.pdf)
+* [Dalvik and ART](https://archive.is/o/kxr87/newandroidbook.com/files/ArtOfDalvik.pdf)
+* [OAT internal structures](https://archive.is/o/kxr87/romainthomas.fr/oat/)
 * 

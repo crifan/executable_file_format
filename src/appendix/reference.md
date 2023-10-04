@@ -4,6 +4,7 @@
 * 【已解决】用LIEF去修改ELF的so中的部分信息
 * 【整理】Mach-O格式分析工具：LIEF
 * 【整理】安卓相关：OTA格式
+* 【已解决】新Mac M2 Max中如何安装x86_64版本rsync
 * 
 * [Comparison of executable file formats - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats)
 * [DOS MZ executable - Wikipedia](https://en.wikipedia.org/wiki/DOS_MZ_executable)

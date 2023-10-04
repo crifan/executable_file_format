@@ -1,7 +1,7 @@
 {
-  "latestVersion": "v0.8.1",
+  "latestVersion": "v0.8.2",
   "lastUpdate": "20231004",
   "gitRepoName": "executable_file_format",
   "bookName": "可执行文件格式",
-  "bookDescription": "介绍常用的可执行文件格式，先是概览；然后是通用内容；接着介绍常见格式，包括早期通用的COFF、Windows的PE、Linux/Android的ELF、macOS/iOS的Mach-O，以及相关的工具，比如查看格式的file，和解析格式的LIEF，且给出具体用法实例；以及相关子教程。"
+  "bookDescription": "介绍常用的可执行文件格式，先是概览；然后是通用内容；接着介绍常见格式，包括早期通用的COFF、Windows的PE、Linux/Android的ELF、macOS/iOS的Mach-O，以及相关的工具，比如查看格式的file，和解析格式的LIEF，且给出具体用法实例，包括解析Mach-O、解析Android的OAT、解析ELF；以及相关子教程。"
 }

@@ -578,11 +578,11 @@ Saved to modifyElf/output/libtacker_arm64_v8a_changedComment.so
 
 * 输出文件：（一次性的批量的多个）修改后的ELF文件：
 
-![elf_lief_changed_output_multi](../../../assets/img/elf_lief_changed_output_multi.jpg)
+![elf_lief_changed_output_multi](../../../../assets/img/elf_lief_changed_output_multi.jpg)
 
 ### 修改前后的内容对比
 
-![elf_lief_changed_diff](../../../assets/img/elf_lief_changed_diff.jpg)
+![elf_lief_changed_diff](../../../../assets/img/elf_lief_changed_diff.jpg)
 
 * `.comment`修改前：
   ```bash

@@ -1,4 +1,6 @@
-# 用LIEF解析OAT
+# LIEF解析Android的OAT
+
+此处用例子说明，如何用LIEF解析Android的OAT格式文件：
 
 代码：
 
